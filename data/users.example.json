@@ -1,0 +1,16 @@
+{
+  "ops": {
+    "email": "ziga.ops@direct4.me",
+    "password": "YOUR_OPS_PASSWORD_HERE",
+    "role": "ops",
+    "displayName": "Žiga Ops",
+    "expectedRedirectPath": "/dashboard"
+  },
+  "maintainer": {
+    "email": "ziga.maintainer@direct4.me",
+    "password": "YOUR_MAINTAINER_PASSWORD_HERE",
+    "role": "maintainer",
+    "displayName": "Žiga Maintainer",
+    "expectedRedirectPath": "/my-work"
+  }
+}
